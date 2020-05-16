@@ -3,7 +3,7 @@ Island Website Business
 
 ## Heading 2
 
-This it text
+[Link](https://yahoo.com)
 
 ### Heading 3
 
