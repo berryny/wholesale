@@ -1,11 +1,62 @@
 /* CSS files add styling rules to your content */
+@import 'normalize.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
 
 body {
   font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+/*   margin: 2em; */
+  background-color: yellow;
 }
-
 h1 {
   font-style: italic;
-  color: #373fff;
+  color: #a66a86;
+  text-align: center;
+}
+h2 {
+  color: pink;
+}
+
+
+/* 
+<ul class="socialmedia">
+  <li>
+    <a href="https://facebook.com">
+      <i class="fab fa-facebook"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://instagram.com"><i class="fab fa-instagram"></i></a>
+  </li>
+</ul>
+ */
+
+/* display social media icons on one line and font size 80px*/
+
+
+ul.socialmedia li /*the rule for element */ { /*open style rule */
+  
+  display: inline; /* styles on one line */
+  font-size: 8px; /* styles font size */
+  
+} /* close the rule */
+
+
+/* classname starts with a . (period) */
+header ul.nav-menu {
+/*   border: 10px solid red; */
+}
+
+.nav-menu a {
+  color: orange;
+}
+
+
+header nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+#about {
+/*   border: 1px solid red; */
 }
