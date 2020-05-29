@@ -1,15 +1,6 @@
-Welcome to Glitch
-=================
+# Welcome to Wholesale Project
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
-
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
-------------
+## Your Project Folder
 
 ### ← README.md
 
@@ -17,7 +8,7 @@ That's this file, where you can tell people what your cool website does and how 
 
 ### ← index.html
 
-Where you'll write the content of your website. 
+Where you'll write the content of your website.
 
 ### ← style.css
 
@@ -31,7 +22,28 @@ If you're feeling fancy you can add interactivity to your site with JavaScript.
 
 Drag in `assets`, like images or music, to add them to your project
 
-Made by [Glitch](https://glitch.com/)
--------------------
+## Class Resources
 
-\ ゜o゜)ノ
+- https://glitch.com/edit/#!/join/7f49c2bd-c9ef-4067-bca6-9dc6bc557d6f
+
+- https://css-tricks.com/essential-meta-tags-social-media/
+
+- https://en.wikipedia.org/wiki/Favicon
+
+- https://grenada-wholesale.glitch.me/introduction.html
+
+- https://necolas.github.io/normalize.css/
+
+- https://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp
+
+- https://www.w3.org/
+
+- https://fontawesome.com/
+
+- https://glitch.com/edit/#!/join/7f49c2bd-c9ef-4067-bca6-9dc6bc557d6f
+
+- https://github.com/berryny/wholesale/blob/master/introduction.html
+
+- https://www.adobe.com/au/creativecloud/business/enterprise/how-to-wireframe-xd.html
+
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
