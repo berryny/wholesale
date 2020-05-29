@@ -1,16 +1,18 @@
 /* CSS files add styling rules to your content */
 @import 'normalize.css';
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
 
 body {
   font-family: helvetica, arial, sans-serif;
 /*   margin: 2em; */
   background-color: yellow;
 }
+
 h1 {
+  font-family: 'Piedra', cursive;
   font-style: italic;
-  color: #a66a86;
+  color: #000;
   text-align: center;
 }
 h2 {
