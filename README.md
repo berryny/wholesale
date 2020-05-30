@@ -217,4 +217,5 @@ Drag in `assets`, like images or music, to add them to your project
   - https://www.fontsquirrel.com/
   - https://fontawesome.com/start
 - Create a **one wireframe page** using Adobe XD [watch tutorial video](https://www.youtube.com/watch?v=jUqbd0em1js)
+  - [Learn how](https://helpx.adobe.com/xd/help/share-designs-prototypes.html) to share your design
 - Review the use of **CSS Flexbox** `display: flex;`. [Learn More](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
