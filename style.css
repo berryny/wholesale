@@ -6,7 +6,7 @@
 body {
   font-family: helvetica, arial, sans-serif;
 /*   margin: 2em; */
-  background-color: yellow;
+  background-color: white;
 }
 
 h1 {
@@ -16,7 +16,8 @@ h1 {
   text-align: center;
 }
 h2 {
-  color: pink;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
 }
 
 

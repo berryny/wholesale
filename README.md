@@ -15,6 +15,46 @@ Sublime Merge for Git Client
 
 [Git](https://git-scm.com/) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
+### The Keyboard
+
+![](https://cdn.glitch.com/a813cfc9-cd0e-4e81-9725-c22074e7a34a%2Fkeyboard.svg?v=1591896216657)
+
+The 104-key US QWERTY layout
+
+### Keyboard Symbols
+
+#### HTML
+
+- `<!-- my comment statement in HTML -->` HTML Comment
+- `!` exclamation mark
+- `<` less than
+- `>` greater than
+- `/` backslash
+- `=` equal
+- `' '` single quote
+- `" "` double quote
+- `-` dash / hyphen
+- `_` underscore
+- `;` semicolon
+
+#### CSS
+
+- `/* my comment statement in CSS */` CSS Comment
+- `@` the at sign used for `@import 'normalize.css';`
+- `(` open parenthesis
+- `)` close parenthesis
+- `.` period
+- `#` **pound / number sign** or hashtag
+- `{ }` curly brace / bracket
+- `{` open curly brace / open bracket
+- `}` close curly brace / close bracket
+- `-` dash / hyphen
+- `_` underscore
+- `' '` single quote
+- `" "` double quote
+- `:` colon
+- `;` semicolon
+
 ### Keyboard shortcuts for Windows
 
 Applies to: [Windows 10 Windows 8.1 Windows 7](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
