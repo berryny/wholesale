@@ -249,6 +249,9 @@ Drag in `assets`, like images or music, to add them to your project
 
 ### Assignment 2
 
+- Find the HTML and CSS symbols on your keyboard
+  - Create a file called `code_example.txt`
+  - Provide examples on how the symbols are used in code.
 - Code 3 website pages using HTML5 and CSS and use `nav` to connect the pages.
 - Use **external font** to heading `<h1> to <h6>` tags and add social media icons
   - https://www.w3schools.com/cssref/css_websafe_fonts.asp
@@ -256,6 +259,7 @@ Drag in `assets`, like images or music, to add them to your project
   - https://fonts.adobe.com/
   - https://www.fontsquirrel.com/
   - https://fontawesome.com/start
-- Create a **one wireframe page** using Adobe XD [watch tutorial video](https://www.youtube.com/watch?v=jUqbd0em1js)
-  - [Learn how](https://helpx.adobe.com/xd/help/share-designs-prototypes.html) to share your design
-- Review the use of **CSS Flexbox** `display: flex;`. [Learn More](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- BONUS
+  - Review the use of **CSS Flexbox** `display: flex;`. [Learn More](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - Create a **one wireframe page** using Adobe XD [watch tutorial video](https://www.youtube.com/watch?v=jUqbd0em1js)
+    - [Learn how](https://helpx.adobe.com/xd/help/share-designs-prototypes.html) to share your design
