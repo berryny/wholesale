@@ -1,1 +1,11 @@
 Symbol Examples
+h1 {
+  color: red;
+  font-size: 2em;
+}
+.classname {
+  font-family: "Times Roman"
+}
+#id {
+  text-align: center;
+}

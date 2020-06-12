@@ -60,6 +60,32 @@ header nav ul li {
   margin-right: 10px;
 }
 
+/* 
+<header>
+  <nav>
+    <ul>
+      <li>
+        <ul>
+          <li></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>
+*/
+header nav ul li ul li {
+  display: block;
+}
+
+/* 
+  Review the use of CSS Flexbox display: flex;. 
+  Learn More: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+*/
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+
 #about {
 /*   border: 1px solid red; */
 }

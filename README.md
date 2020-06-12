@@ -263,3 +263,14 @@ Drag in `assets`, like images or music, to add them to your project
   - Review the use of **CSS Flexbox** `display: flex;`. [Learn More](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - Create a **one wireframe page** using Adobe XD [watch tutorial video](https://www.youtube.com/watch?v=jUqbd0em1js)
     - [Learn how](https://helpx.adobe.com/xd/help/share-designs-prototypes.html) to share your design
+
+### Assignment 3
+
+- Review the use of **CSS Flexbox** `display: flex;`. [Learn More](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+  - [HTML <div> Tag](https://www.w3schools.com/tags/tag_div.asp)
+  - [CSS Flexbox Layout Module](https://www.w3schools.com/css/css3_flexbox.asp)
+  - [What Happens When You Create A Flexbox Flex Container?](https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/)
+
+- Create HTML and CSS markup for the below design
+  ![](https://cdn.glitch.com/a813cfc9-cd0e-4e81-9725-c22074e7a34a%2FWeb%201920%20%E2%80%93%202%20Column%20Grid%20%E2%80%93%20Text.jpg?v=1591997299184)
