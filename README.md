@@ -273,11 +273,5 @@ Drag in `assets`, like images or music, to add them to your project
   - [What Happens When You Create A Flexbox Flex Container?](https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/)
 
 - Create HTML and CSS markup for the below design
-  - CSS
-    - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
-    - `background-image`
-    - `background-color`
-    - `border-radius`
-    - `margin` and `padding`
-
-![](https://cdn.glitch.com/a813cfc9-cd0e-4e81-9725-c22074e7a34a%2FWeb%201920%20%E2%80%93%202%20Column%20Grid%20%E2%80%93%20Text.jpg?v=1591997299184)
+  - CSS - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp) - `background-image` - `background-color` - `border-radius` - `margin` and `padding` - [Learn how to use Adobe XD](https://helpx.adobe.com/xd/help/share-designs-prototypes.html) to share your design
+    ![](https://cdn.glitch.com/a813cfc9-cd0e-4e81-9725-c22074e7a34a%2FWeb%201920%20%E2%80%93%202%20Column%20Grid%20%E2%80%93%20Text.jpg?v=1591997299184)
