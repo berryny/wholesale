@@ -1,25 +1,24 @@
 /* CSS files add styling rules to your content */
-@import 'normalize.css';
+@import "normalize.css";
 
-@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Piedra&display=swap");
 
 body {
   font-family: helvetica, arial, sans-serif;
-/*   margin: 2em; */
+  /*   margin: 2em; */
   background-color: white;
 }
 
 h1 {
-  font-family: 'Piedra', cursive;
+  font-family: "Piedra", cursive;
   font-style: italic;
   color: #000;
   text-align: center;
 }
 h2 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: black;
 }
-
 
 /* 
 <ul class="socialmedia">
@@ -36,28 +35,43 @@ h2 {
 
 /* display social media icons on one line and font size 80px*/
 
+ul.socialmedia li /*the rule for element */ {
+  /*open style rule */
 
-ul.socialmedia li /*the rule for element */ { /*open style rule */
-  
   display: inline; /* styles on one line */
   font-size: 8px; /* styles font size */
-  
 } /* close the rule */
-
 
 /* classname starts with a . (period) */
 header ul.nav-menu {
-/*   border: 10px solid red; */
+  /*   border: 10px solid red; */
 }
 
 .nav-menu a {
   color: orange;
 }
 
-
 header nav ul li {
   display: inline;
   margin-right: 10px;
+}
+
+.info {
+  border: 2px solid rgb(22, 77, 100);
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.services {
+  border: 2px solid rgb(22, 77, 100);
+  border-radius: 5px;
+  margin: 10 px;
+}
+
+.services {
+  border: 2px solid rgb(22, 77, 100);
+  border-radius: 5px;
+  margin: 10 px;
 }
 
 /* 
@@ -87,5 +101,42 @@ header nav ul li ul li {
 }
 
 #about {
-/*   border: 1px solid red; */
+  /*   border: 1px solid red; */
+: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+  resize: vert}
+
+}
+
+  input[type="text"]{
+  width: 80%;
+  padding: 12px 20px;
+    border: 2px solid red;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  box-sizingical;
+}
+
+
+
+
+
+  input[type="email"]{
+  width: 70%;
+  padding: 12px 20px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  box-sizingical;
+}
+
+{
+input[type="submit"]:hover 
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
 }
